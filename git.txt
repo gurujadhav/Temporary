@@ -1,0 +1,24 @@
+1. What is git?
+2. applications of git
+3. git installation
+4. github acount creation
+5. git configure 
+        a. git config --global user.name " name of account"
+        b. git config --global user.email "email"
+        c. git config --global user.name " name of account"
+6. intliaze repo local 
+    git init
+7. git status so we can know which files are tracked 
+    there are 4 types of files:
+        a. untracked -- no trackedonce also
+        b. Modified -- the files which is getting tracked and chnaged
+        c. staged --file is ready to commit
+        d. unmodified -- unchanged clean tree
+
+        to add untacked file use git add filename/all
+        to commit changes   git commit -m "message"
+8. Cloning a repository git clone https://github.com/delaford/game.git
+9. git push pull
+10. git version control restoring changes
+11. git branch 
+
